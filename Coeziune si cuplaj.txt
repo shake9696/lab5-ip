@@ -1,0 +1,7 @@
+Într-o proiectare orientata pe obiecte, cuplajul reprezinta gradul de interconectare dintre
+entitatile sale. Coeziunea este un aspect complementar cuplajului. Coeziunea ridicata la nivel de clasa indica o 
+strânsa legatura între toate elementele respectivei clase. 
+
+Proiectul nostru are coeziune mare si un cuplaj slab, în sensul cã vom prefera pentru 
+testare sã definim clase si metode mai mici (care au un singur rol în aplicatie) si cu mai 
+putine dependente între ele, astfel ca sã poatã fi testate izolat fiecare.
